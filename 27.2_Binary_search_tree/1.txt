@@ -1,0 +1,3 @@
+binary search tree(bst) is a special type of tree in which left sub tree node are smaller than root and right sub tree is larger than root  (and in normal bst no two nodes have same value)
+traversal complexity in binary tree is N where in bst it is H -> height of the tree
+if we do inorder traversal in bst we get an sorted sequence

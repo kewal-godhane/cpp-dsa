@@ -1,0 +1,5 @@
+time complexity of recursion = time complexity of that function*no. of function call
+
+if no. of function call is 2 then in every level we have 2^n branches so TC = 2^n
+
+space complexity of simple recursion is O(n) because the stack will behave like a dynamic array

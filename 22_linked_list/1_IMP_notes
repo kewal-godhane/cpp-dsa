@@ -1,0 +1,4 @@
+1. class or structure anyone can be used to create a node 
+2. a node consist of a variable val and a pointer of type which will point to the next node and a constructor which will create a node(allocating space)
+3. reverse a linked list 1.recursion 2.three pointers 
+4. detect cycle 1.hare and tortoise 2. hashing

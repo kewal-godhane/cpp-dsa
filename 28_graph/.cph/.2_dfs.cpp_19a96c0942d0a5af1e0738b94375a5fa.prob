@@ -1,0 +1,1 @@
+{"name":"Local: 2_dfs","url":"d:\\programming languages\\c & c++\\c++ & DSA by apna college\\28_graph\\2_dfs.cpp","tests":[{"id":1655787984917,"input":"6 6\n1 2\n1 3\n2 3\n3 4\n3 5\n5 6","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\programming languages\\c & c++\\c++ & DSA by apna college\\28_graph\\2_dfs.cpp","group":"local","local":true}

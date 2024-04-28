@@ -1,0 +1,15 @@
+A subarray is a contiguous sequence of elements within an array  (should be continuous
+for instance the subarrays of the array{1,2,1} would be {1},{2},{1,2},{2,1},{1,2,1},{}
+
+A substring is just a subarray that is made up of only characters
+
+A subsequence is a sequence that can be derived from another sequence by deleting some or no elements without changing the order of the remaining elements
+this means a subsequence is a genralized subarray, where the rule of contiguity does not apply
+ex-> {A,B,C}
+{A},{B},{C},{A,B},{B,C},{A,C},{A,B,C},{}
+
+A set is subset of another set if all its elements are contained by that set
+This means neither contiguity nor ordering of elements matter
+subset do not need to preserve element order. As a result both {1,2} and {2,1} are same
+
+*if we have n numbers than the number of pairs we can form is n(n-1)/2
